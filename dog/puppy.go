@@ -6,6 +6,6 @@ import (
 
 func BigBark() string {
 
-	bark := "Woof"
+	bark := "Woof!"
 	return dog.WhenGrownUp(bark)
 }
